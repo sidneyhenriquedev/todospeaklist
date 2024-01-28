@@ -79,7 +79,7 @@ function PressMicSaveList() {
 
 //Here sound when press btn record or press f9
 function recordingSound() {
-    //Comented used in localhost for build the project
+    //Comented used only localhost
     // const AudioRecording = new Audio("../assets/recording.mp3")
     const AudioRecording = new Audio("https://sidneyhenriquedev.github.io/todospeaklist/assets/recording.mp3")
     AudioRecording.addEventListener('canplaythrough', (event) => {
@@ -89,6 +89,8 @@ function recordingSound() {
 
 
 function error_listening() {
+    //Comented used only localhost
+    // const AudioRecording = new Audio("../assets/error_listening.mp3")
     const ErrorAudioListening = new Audio("https://sidneyhenriquedev.github.io/todospeaklist/assets/error_listening.mp3")
     ErrorAudioListening.addEventListener('canplaythrough', (event) => {
         ErrorAudioListening.play()
