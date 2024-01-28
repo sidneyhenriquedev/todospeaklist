@@ -38,6 +38,7 @@ Um simples aplicativo de lista de tarefas criado com HTML, CSS e JavaScript, per
 ## Requisitos
 
 - Navegador web moderno.
+- De Preferencia Google Chrome
 
 ## Recursos
 
