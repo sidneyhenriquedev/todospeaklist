@@ -451,143 +451,154 @@ footer .link-linkedin{
 
 
 /*Responsive max width 900px*/
-@media screen and (max-width:900px) {
-    header > ul{
+@media screen and (max-width: 900px) {
+
+    body{
+       display: flex;
+       align-items: center; 
+       justify-content: center;
+        
+    }
+
+    .container{
+        width: 60%;
+    }
+
+
+    header > ul {
         display: flex;
         flex-direction: column;
         justify-content: center;
         width: 100%;
         align-items: center;
-        gap: 0.8rem;   
+        gap: 0.8rem;
     }
 
-    header{
+    header {
         border-radius: 6px;
         display: flex;
         align-items: center;
-        justify-content: center;   
+        justify-content: center;
     }
 
-    .listItemUser{
+    .listItemUser {
         margin: 12px;
         position: relative;
         display: flex;
         align-items: center;
         justify-content: center;
         right: 60px;
-        bottom: 38px;  
-        
+        bottom: 38px;
     }
 
-
-    li > a{
+    li > a {
         background-color: #24445f;
         padding: 1rem;
         gap: 0.1rem;
         display: flex;
         align-items: center;
         justify-content: center;
-        border-radius: 10px;   
+        border-radius: 10px;
     }
 
-    select{
-        background-color:#24445f;
+    select {
+        background-color: #24445f;
         color: #fff;
         width: 160px;
         height: 50px;
     }
 
-    select:hover{
+    select:hover {
         background-color: #295a81;
     }
 
-    li > a:hover{
-        background-color: #295a81;      
+    li > a:hover {
+        background-color: #295a81;
     }
 
-    .item-user{
+    .item-user {
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 100%;     
+        width: 100%;
     }
 
-    .item-user h1{
+    .item-user h1 {
         text-align: center;
         margin-right: 80px;
     }
 
-    .item-user label{
+    .item-user label {
         margin-right: 80px;
-        
     }
 
-    .input-mic{
+    .input-mic {
         display: flex;
         width: 240px;
         margin-right: 80px;
     }
 
-    .input-mic .mic{   
+    .input-mic .mic {
         margin-left: 90px;
     }
 
-    .to-do-item{
+    .to-do-item {
         background-color: #4682b4;
         display: flex;
         align-content: center;
-          
-     }
+    }
 
-     .label-calendar{
+    .label-calendar {
         display: block;
         margin: 0 auto;
         margin-left: 22px;
         margin-bottom: 2px;
-     }
-     .toggle-checkbox, .toggle-label{
+    }
+
+    .toggle-checkbox,
+    .toggle-label {
         justify-content: center;
         align-items: center;
         margin-left: 72px;
         margin-bottom: 4px;
-     }
+    }
 
-     .calendar{
+    .calendar {
         display: block;
         margin: 8px 14px 8px;
         top: 110px;
-        
-     }
+    }
 
-     .month>h1{
+    .month>h1 {
         display: block;
-        margin-top: 44px;  
-     }
+        margin-top: 44px;
+    }
 
-     .logApp{
+    .logApp {
         display: inline-block;
         top: -52px;
         left: -28px;
-     }
-     h1{
+    }
+
+    h1 {
         display: flex;
         bottom: 48px;
         position: relative;
-     }
+    }
 
-     .lbl-information-success{
-       bottom: 48px;
-       position: relative;
-       left: -12px;
-       text-align: center;
-     }
+    .lbl-information-success {
+        bottom: 48px;
+        position: relative;
+        left: -12px;
+        text-align: center;
+    }
 
-     .input-mic{
+    .input-mic {
         position: relative;
         bottom: 40px;
-     }
+    }
 
-     footer{
+    footer {
         display: none;
-     }  
+    }
 }
