@@ -7,7 +7,7 @@ Um simples aplicativo de lista de tarefas criado com HTML, CSS e JavaScript, per
 1. Clone o repositório em sua máquina local:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/sidneyhenriquedev/todospeaklist/.git
     cd nome-do-repositorio
     ```
 
