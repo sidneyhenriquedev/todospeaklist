@@ -51,4 +51,4 @@ Contribuições, problemas e melhorias são bem-vindos.
 
 ## Licença
 
-Este projeto está licenciado sob a [sua licença aqui]. Consulte o arquivo LICENSE.md para obter detalhes.
+Este projeto faz parte de meus estudos na area da programacao ou seja use como quiser ele é livre.
