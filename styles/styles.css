@@ -453,17 +453,9 @@ footer .link-linkedin{
 /*Responsive max width 900px*/
 @media screen and (max-width: 900px) {
 
-    body{
-       display: flex;
-       align-items: center; 
-       justify-content: center;
-        
-    }
-
     .container{
         width: 60%;
     }
-
 
     header > ul {
         display: flex;
