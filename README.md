@@ -23,6 +23,18 @@ Um simples aplicativo de lista de tarefas criado com HTML, CSS e JavaScript, per
 
 <img src="assets/screen_capture/screen_1.png">
 
+## Captura de Tela 2
+<img src="assets/screen_capture/screen_2.png">
+
+## Captura de Tela 3
+<img src="assets/screen_capture/screen_3.png">
+
+## Captura de Tela 4
+<img src="assets/screen_capture/screen_4.png">
+
+## Captura de Tela 5
+<img src="assets/screen_capture/screen_5.png">
+
 ## Requisitos
 
 - Navegador web moderno.
