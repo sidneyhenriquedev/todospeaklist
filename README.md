@@ -40,6 +40,9 @@ Um simples aplicativo de lista de tarefas criado com HTML, CSS e JavaScript, per
 - Navegador web moderno.
 - De Preferencia Google Chrome
 
+- ## TESTE A APLICAÇÃO AQUI A BAIXO!
+- <a href="https://sidneyhenriquedev.github.io/todospeaklist/">Clique Para Testar</a>
+
 ## Recursos
 
 - [Documentação HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
