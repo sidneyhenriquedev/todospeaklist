@@ -21,7 +21,7 @@ Um simples aplicativo de lista de tarefas criado com HTML, CSS e JavaScript, per
 
 ## Capturas de Tela
 
-![Captura de Tela 1](sua-pasta-de-imagens/captura_tela_1.png)
+<img src="assets/screen_capture/screen_1.png">
 
 ## Requisitos
 
