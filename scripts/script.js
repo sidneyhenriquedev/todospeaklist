@@ -79,7 +79,9 @@ function PressMicSaveList() {
 
 //Here sound when press btn record or press f9
 function recordingSound() {
-    const AudioRecording = new Audio("../assets/recording.mp3")
+    //Comented for localhost
+    // const AudioRecording = new Audio("../assets/recording.mp3")
+    const AudioRecording = new Audio("https://sidneyhenriquedev.github.io/todospeaklist/assets/recording.mp3")
     AudioRecording.addEventListener('canplaythrough', (event) => {
         AudioRecording.play()
     })
